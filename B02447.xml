@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries touching excommunication published by the people of God, (termed in derision Quakers) to be considered by all the bishops and synods of this nation, or any others that may be concerned in such proceedings against them. But most especially, by the present bishop and synod of Aberdeen.</title>
+            <author>Cowie, John, fl. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02447</idno>
+            <idno type="STC">Wing C6648</idno>
+            <idno type="STC">ESTC R171572</idno>
+            <idno type="EEBO-CITATION">52528783</idno>
+            <idno type="OCLC">ocm 52528783</idno>
+            <idno type="VID">178749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178749)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2769:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries touching excommunication published by the people of God, (termed in derision Quakers) to be considered by all the bishops and synods of this nation, or any others that may be concerned in such proceedings against them. But most especially, by the present bishop and synod of Aberdeen.</title>
+                  <author>Cowie, John, fl. 1683.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Aberdeen :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  Synod of Aberdeen --  Early works to 1800.</term>
+               <term>Quakers --  Persecutions --  Scotland --  Early works to 1800.</term>
+               <term>Society of Friends --  Scotland --  17th century --  Early works to 1800.</term>
+               <term>Excommunication --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="queries">
+            <pb facs="tcp:178749:1"/>
+            <pb facs="tcp:178749:1" rendition="simple:additions"/>
+            <head>Some Queries touching EXCOMMUNICATION Publiſhed by the People of GOD, (termed in deriſion <hi>Qua<g ref="char:EOLhyphen"/>kers</hi>) to be conſidered by all the Biſhops and Synods of this Nation, or any others that may be concerned in ſuch Proceedings againſt them. But moſt eſpecially, by the preſent Biſhop and Synod of <hi>Aberdeen.</hi>
+            </head>
+            <p n="1">I. Quer. SEing ye alleadge ye have your Power or Authori<g ref="char:EOLhyphen"/>ty to Excommunicate from GOD, and from Chriſt; How, and after what manner have ye it, mediately, or immediately? If immediately, how can that be, ſeing ye affirm that immediate calls are ceaſed generally ſince the Apoſtles dayes? and ſeeing ye blame us for pretending to an im<g ref="char:EOLhyphen"/>mediate call, becauſe as you think, immediate calls are ceaſed? Again, you ſay men may be lawfully called and authorized to Preach, and do all Miniſterial Offices, who are but Natural and unconverted men, and have no inward acquaintance and fellow<g ref="char:EOLhyphen"/>ſhip with God; and ſuch men ye allow them to excommunicate whom ye think to deſerve ſuch a cenſure, and you ſay they have authority ſo to do, and yet you cannot ſay they have an immedi<g ref="char:EOLhyphen"/>ate call from God thereunto?</p>
+            <p>If mediately, then tell us what is the firſt Original and riſe of this mediate call, and what are all the middle-ſteps, or midſes betwixt the firſt and the laſt? for either the firſt riſe and original muſt be the Apoſtles, who were immediately called, or ſome
+<pb n="2" facs="tcp:178749:2"/>ſince the Apoſtles dayes, about the beginning of the Reformation that were immediately called, for all mediate calls muſt at laſt reſolve in an immediate call, otherwiſe there would be an infi<g ref="char:EOLhyphen"/>nite progreſs which is abſurd? If ye deduce the riſe of your me<g ref="char:EOLhyphen"/>diate call from thoſe who were immediately called, about the time of the firſt Reformation, then ye muſt grant that the firſt Refor<g ref="char:EOLhyphen"/>mers were immediately called, as the Apoſtles and Evangeliſts were, which contradicts your common Principle, that immediate calls are generally ceaſed ſince the Apoſtles dayes. Again, if the firſt Reformers were immediately called, they were alſo imme<g ref="char:EOLhyphen"/>diately gifted and furniſhed, what to ſay, and to preach, and to write; for all that ever had the one, had the other, as you may read in the Scripture: And if they were immediately gifted and furniſhed, then they were immediately inſpired; and conſequent<g ref="char:EOLhyphen"/>ly what they ſpoke and wrote by the ſame, was by the infallible Spirit of Truth, and of the ſame Authority with the Words and Writings of the Apoſtles and Prophets, which is contrare to an<g ref="char:EOLhyphen"/>other common Principle of yours, <hi>that all writings ſince the Apoſtles dayes are but Humane, and not Divine, nor Divinely inſpired;</hi> for if di<g ref="char:EOLhyphen"/>vinely inſpired, they ſhould be equal to Scripture, and deſerve to be bound up in the Canon which you will not acknowledge.</p>
+            <p>But if you deduce your mediate call from the Apoſtles who lived about 1600. years ago; then I ask by what Church or Church-officers is this your mediate call deſcended unto you from the Apoſtles, whether by the Church of <hi>Rome,</hi> and her Biſhops and Popes, yea, or nay? Or by what other Church or Church-Officers? And if the Church of <hi>Rome</hi> and her Biſhops (unto which only in a viſible ſucceſſion ye can have any colour to lay claime) then I ask, hath not the Church of <hi>Rome</hi> and her Biſhops degenerat ſince the Apoſtles daies? Have not ye your ſelves (cal<g ref="char:EOLhyphen"/>led <hi>Proteſtant-Miniſters</hi> and <hi>Preachers</hi>) oft Preached and Printed it, <hi>That the Church of Rome for theſe many hundreds of years</hi> (to wit, the viſible Church) <hi>hath been an Apoſtate Church, and her Biſhops Apo<g ref="char:EOLhyphen"/>ſtates from the true Faith delivered unto the Apoſtles?</hi> And did ye not deny her to be a true Church? and on that account, did not your Predeceſſours the firſt Reformers ſeparate from her? And did
+<pb n="3" facs="tcp:178749:2"/>not the Church of <hi>Rome</hi> and her Popes excommunicate your Predeceſſours? and ſuch of them who once had her call, ſhe de<g ref="char:EOLhyphen"/>graded them, and took it away from them? And to this day ſhe denieth you, and excommunicateth you all every year, ſo that ye are all above an hundred times excommunicated by her. Now are ye not aſhamed to derive your call from her, who is an <hi>harlot, and the mother of harlots,</hi> as your ſelves have called her, and from <hi>Babylon,</hi> and from the <hi>Synagogue of Satan,</hi> as ye have alſo called her? And are ye not aſhamed to derive your call from the Pope of <hi>Rome</hi> whom ye have oft called <hi>Antichriſt?</hi> and ſome of the Popes of <hi>Rome</hi> by whom your mediat call is deſcended unto you, were Witches and Necromancers, as <hi>Hildebrand,</hi> who was alſo a vile Murtherer; and one of them is reported to be a Woman, and vile Harlot, that bear a Child in the time of her Proceſſion; and this the <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> have objected againſt the <hi>Papiſts</hi> very often: and yet theſe are the perſons whom ye derive your mediate call from, to ex<g ref="char:EOLhyphen"/>communicate us, from Witches, from Necromancers, from a Whore both Spiritually and Carnally, from <hi>Babylon,</hi> from the <hi>Synagogue of Satan,</hi> and from <hi>Antichriſt</hi> himſelf! A ſtrange thing that <hi>Antichriſt</hi> ſhould have a juſt and true Power and Authority to make and call Miniſters of Chriſt, and yet more ſtrange, that theſe whom <hi>Antichriſt</hi> hath excommunicated above an hundred times, ſhould from him claim their Power as from their lawful Predeceſſour to excommunicate others!</p>
+            <p>Anſwer theſe plain Queſtions plainly and clearly, and call not this Railing, for it is not railing to ſpeak the Truth, not to ſeek to find out and diſcover the Truth. And ſeing your call is mediate from the Apoſtles, muſt it not be a viſible call? (for a mediate in<g ref="char:EOLhyphen"/>viſible call is a contradiction) and if it be a viſible call, muſt ye not viſibly in a viſible way by viſible Succeſſours from the very Apoſtles derive it unto your own time, who have tranſmitted it viſibly by Ordination, and laying on of hands, as the manner of your mediate call is?</p>
+            <p>Now, that the <hi>Proteſtants,</hi> and even the <hi>Presbyterians</hi> derive their
+<pb n="4" facs="tcp:178749:3"/>call to the Miniſtrie mediately from the <hi>Church of Rome</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding her Apoſtacie) becauſe ſome thorow ignorance may deny it, let them read <hi>James Durham</hi> in his expoſition on the <hi>Re<g ref="char:EOLhyphen"/>velation,</hi> ſee his twentie third and 24th. Digreſſions.</p>
+            <p n="2">II. Quer. WHat is the nature of your Excommunication, is it a cutting us off really and totally from all the Spi<g ref="char:EOLhyphen"/>ritual union and communion with God, and them who are truely and really the people of God, where ever they are throughout the World? Or is it not a real cutting off, and a real ſeparating us from them, only pretended and ſeeming, for one theſe two it muſt needs be (ſeing there is no midſt betwixt them) now if it be but pretended and ſeeming it is falſe and vain; neither have we nor any other cauſe to lay weight upon it.</p>
+            <p>If it be a real cutting us off and ſeparating us from Spiritual union with God and his People, then ye muſt needs have a knowledge of us, that we, are none of us, in the leaſt meaſure of the number of Gods People, and that none of us have the leaſt meaſure of true Faith, true love to God, true holineſs and piety? and how know ye that none of us have the leaſt meaſure of thoſe things? Have ye an infallible diſcerning (of the inward ſtates of others) to know whether we be in the ſtate of Grace yea or nay? If yea, how ſay ye, <hi>that an infallible diſcerning of the inward ſtates of others is ceaſed;</hi> ſeing that belongs to immediate Revelation, which you ſay is <hi>ceaſed generally ſince the Apoſtles dayes?</hi> If nay, then having no infallible knowledge of our inward ſtates, the beſt that you have is but conjectural, and in opinion; and therefore ye cannot do what ye do in this matter againſt us, in Faith, and with clearneſs, but with doubting? and ſeing he that <hi>doubteth is damned,</hi> as the Apoſtle ſaid; how can your ſentence of damnation againſt us bear weight, which proceed from you, who, becauſe of your doubting are damned your ſelves?</p>
+            <p n="3">
+               <pb n="5" facs="tcp:178749:3"/>
+III. Quer. WHat are the particular grounds and reaſons of your excommunicating us, are errours of life and converſation, or errours of judgement; we ſuppoſe ye will not alleadge the firſt; ſeing our life and converſation whom ye have excommunicated, and are purpoſing to excommunicate, is at leaſt as good as your own, and manifeſtly better than thouſands of your own Church-Members, whom for all their lying, ſwearing, curſing, defraud<g ref="char:EOLhyphen"/>ing, drinking drunk, and other abominations among them, ye continually bleſſe and curſe not.</p>
+            <p>If they be errours of Judgement, then we alſo ask further, do all errours of Judgement deſerve that the perſons (ſimply for their judgement) holding them, ought to be excommunicate, which is contrary to your own way among your ſelves; for ſome among your ſelves differ one from another in matters of Judgement in diverſe things, as ſome of you think that <hi>Epiſcopa<g ref="char:EOLhyphen"/>cy is Jure Divino,</hi> others think, it is but an <hi>Humane Invention, and limb of the Antichriſtian Hierarchy,</hi> ſome of you think, that <hi>ſet forms of Prayer ought to be uſed in the worſhip of God,</hi> others thnk it <hi>Popiſh and Superſtitious;</hi> ſome of you think, ye ſhould ſing that called the <hi>Doxologie, and ſtand up to it, though ſitting at the reſt of the Pſalm,</hi> others condemn it as <hi>ſuperſtitious and will-worſhip;</hi> ſome think they ſhould kneel in receiving the <hi>Sacrament,</hi> (as they call it) others think kneeling <hi>Idolatry;</hi> ſome think they ſhould be uncovered all the while they are in the <hi>Steeple-houſe,</hi> if it be conſecrated, others think it <hi>Superſtition;</hi> ſome think the Magiſtrate may be <hi>reſiſted, and they may riſe up in Armes againſt him, to carry on a Reformation;</hi> which bad doctrine they have learned from their Grand-father the Pope: others do juſtly condemn that principle. And beſides diverſe of the <hi>Proteſtants</hi> hold, <hi>that Chriſt hath died for all men,</hi> O<g ref="char:EOLhyphen"/>thers hold the contrary, <hi>that He hath not died for all, but ſome.</hi> Again diverſe hold, <hi>that the keeping of the firſt day of the week for a Sabbath, is of Divine appointment;</hi> others, ſuch as <hi>Calvin,</hi> and many with him, both abroad and at home deny it. Some ſay, <hi>that we are juſtified not only by the outward righteouſneſs of Chriſt im<g ref="char:EOLunhyphen"/>puted
+<pb n="6" facs="tcp:178749:4"/>to us;</hi> but alſo, <hi>by inward righteouſneſs,</hi> as many of the <hi>Epiſ<g ref="char:EOLhyphen"/>copal</hi> party in <hi>England,</hi> and ſome in <hi>Scotland;</hi> and many other dif<g ref="char:EOLhyphen"/>ferences of Judgement are amongſt them, who yet do not ex<g ref="char:EOLhyphen"/>communicate one another, but hold it their duty to bear with one another. It is not therefore one or diverſe errours, or diffe<g ref="char:EOLhyphen"/>rences in Judgement, or in relation to Worſhip, that are ground of Excommunication, but ſuch as are Blaſphemous, or funda<g ref="char:EOLhyphen"/>mental errours, ſuch as overturne the very foundation of Chriſti<g ref="char:EOLhyphen"/>anity, and Chriſtian Religion. Now before ye excommunicate us, ye ſhould take pains to inform your ſelves, if we whom ye are about to excommunicate do hold ſuch fundamental errours, for we know not that we hold any principle, which ye your ſelves call a fundamental errour. Indeed ſome of you have al<g ref="char:EOLhyphen"/>leaged that <hi>Quakers</hi> in <hi>England</hi> hold blaſphemous and fundamen<g ref="char:EOLhyphen"/>tal errours, but they have not proved it out of their own words and writings; and if it were ſo, that is not ſufficient for you to proceed againſt us, unleſs ye diſcover that we particularlie, whom ye are about to Excommunicate, do hold ſuch blaſphemous and fundamental errours; for every one is to be judged according to his own Faith.</p>
+            <p>Therefore let us have a fair and free hearing and communing betwixt you and us, for we are moſt willing that ye try us to the uttermoſt of your abilitie, which ye as yet have not done, but taken things upon truſt, and believed lies and miſ-informations a<g ref="char:EOLhyphen"/>gainſt us: and unleſs ye do this, ye lay your ſelves open to the juſt cenſure of all, that you have not proceeded orderlie with us, nor given us Goſpel-order; for if ye think ye are our Judges in theſe things, ye ſhould give us a hearing freely, and fully before your <hi>Presbytries;</hi> or if we appeal from your <hi>Presbytries,</hi> ye ſhould give us a hearing freely, and fully before your <hi>Synods,</hi> and higheſt Church Judicatories, ſuch as they are.</p>
+            <p>And as for us though we own you not as our Judges, yet we are moſt willing that ye try us, and ye cannot in any colour of reaſon deny us theſe publick opportunities of Conference, and labouring to clear our ſelves, which even the <hi>Papiſts</hi> have given
+<pb n="7" facs="tcp:178749:4"/>unto <hi>Proteſtants,</hi> and which the <hi>Proteſtants</hi> in reaſon demanded of them, and which the Sinod of <hi>Dort</hi> gave unto the <hi>Armenians</hi> and <hi>Remonſtrants</hi> before they paſſed ſentence againſt them.</p>
+            <p n="4">IV. Quer. WHy have ye changed the form of the words of Ex<g ref="char:EOLhyphen"/>communication, ſet down in the Scripture, which is, <hi>to deliver up unto Satan for the deſtruction of the fleſh,</hi> 1 <hi>Cor.</hi> 5.5. And ſeing ye think it ſo eſſential to adhere to the words of Scripture, when ye Sprinkle, and when ye give the Sacrament of <hi>the Body and Blood of Chriſt,</hi> as ye judge it; why do ye not adhere to them when ye excommunicate? And as for your new forme of excommunication, to deliver up unto the <hi>righteous judgement of God:</hi> who hath taught you theſe words? And ſeing they are not expreſly Scripture words, (nor indeed pertinent to be words of excommunication, for they may be pro<g ref="char:EOLhyphen"/>perly applyed unto them, who are not excommunicated, nor to be excommunicated: Yea <hi>David,</hi> an eminent Saint praied, <hi>that the Lord would judge him;</hi> and ſaid <hi>Peter, judgement muſt begin at the houſe of God</hi>) what ſort of words are they, whether Divine, or given by Divine Inſpiration? If not, then they are but the words of a man, and therefore they can have no weight nor authority with them againſt us.</p>
+            <div type="queries">
+               <head>Some further Queries from <hi>Iſaiah</hi> 66.5. <hi>Hear the Word of the Lord, ye that tremble at his Word, your Brethren that hated you, that caſt you out for my Names ſake, ſaid, let the Lord be glorified; but he ſhall appear to your gleoy, and they ſhall be aſhamed.</hi>
+               </head>
+               <p n="5">V. Quer. WHether theſe who are ſaid to tremble at the Word of the Lord, may not be termed <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> in the dialect of Mockers, as well as theſe called <hi>Quakers</hi> now termed ſo by their oppoſers, for their trem<g ref="char:EOLhyphen"/>bling at the Power, Preſence and Fear of the living God? ſeing</p>
+               <p>
+                  <pb n="8" facs="tcp:178749:5"/>
+                  <hi>Quaking</hi> and <hi>Trembling</hi> are both one upon the matter.</p>
+               <p n="6">VI. Quer. IF it hath not been generally the lot of all the Faithful followers of the Lord, and witneſſes of his Truth in all Ages to be hated and perſecu<g ref="char:EOLhyphen"/>ted, by thoſe who upon ſome account were eſteemed brethren; ſo <hi>Iſaac</hi> by <hi>Iſhmael,</hi> and <hi>Jacob</hi> by <hi>Eſau,</hi> and <hi>Joſeph</hi> by his Brethren, according to the word of the Apoſtles, <hi>Gal.</hi> 4.29. <hi>But as then he that was born after the fleſh, perſecuted him that was born after the Spirit, even ſo it is now;</hi> ſee <hi>John</hi> 16.2. <hi>They ſhall caſt you out of the Synagogue,</hi> &amp;c.</p>
+               <p n="7">VII. Quer. WHether this hatred and perſecution hath ever wanted a ſpecious pretext of zeal, for the Name of the Lord, and that God may be glorified? as hear <hi>Iſaiah</hi> 66.5. <hi>Your brethren that hated you, and caſt you out for my Names ſake, ſaid, let the Lord be glorified.</hi>
+               </p>
+               <p n="8">VIII. Quer. IS it not duty for Preachers and People ſeriouſ<g ref="char:EOLhyphen"/>ly to conſider and weigh in the light of the Lord what they are doing, when they go about ſuch acts? or are countenancing ſuch diſcipline, ſeing theſe things are ſo clearly foretold in the place now cited, and that Chriſt warned his Diſciples, <hi>John</hi> 16.2. <hi>that they ſhould put them out of the ſynagogues, &amp;c.</hi> leſt otherwiſe they may be under this ſame miſtakes with theſe perſecutors here propheſied of.</p>
+               <p n="9">IX. Quer. IF meer miſtakes or malicious miſ-repreſentati<g ref="char:EOLhyphen"/>ons from Preachers, as by <hi>G. M.</hi> his ſermon, in the 9th. month, 1666. falſly chargeing the People of the Lord with Hereſies; blaſphemies and errours will be a ſufficient excuſe in the day of the Lords Judgement for the peoples acceſſion to, or countenancing ſuch acts of diſcipline,
+<pb n="9" facs="tcp:178749:5"/>when the charge and calumnies were never made out? And the ſufferers denyed the benefit of the Printing-preſs, to clear their innocency. Yea, people frighted away from the occaſions of true information; that ſo what Preachers ſpeaks of us from Pulpits may be believed implicitly; and thereby people prepa<g ref="char:EOLhyphen"/>red (as of old) to <hi>prefer Barrabas to Chriſt,</hi> deceivers and murde<g ref="char:EOLhyphen"/>rers to the God of truth; ſeing the <hi>Jews</hi> had as much to ſay for the authority of the <hi>Scribes</hi> and <hi>Phariſees,</hi> and <hi>High-Prieſts,</hi> and the reſpect they carried to their perſons and doctrine, as people have to ſay for many of their teachers in this day?</p>
+               <p n="10">X. Quer. WHither it be not a non-ſenſical and ridiculous Act to Excommunicate theſe who have re<g ref="char:EOLhyphen"/>jected their communion of <hi>Bread</hi> and <hi>Wine</hi> al<g ref="char:EOLhyphen"/>ready? and is all one with the <hi>Popes</hi> practice, when he excom<g ref="char:EOLhyphen"/>municates a <hi>Proteſtant</hi> Prince; who out of conviction of the <hi>Popes</hi> unjuſt uſurpations, had rejected and renounced all his pretended authority? were it not that thereby he aims to give occaſion to his implicit and malicious followers, to trouble and moleſt him in his lawful dominions, whereby his pride, revenge, and diſpight doth more appear, then any true zeal to the <hi>Catholick Church,</hi> (as he calls it) though falſly pretended, the caice being all one upon the matter, <hi>comparatis comparandis,</hi> comparing things to be compared?</p>
+               <p n="11">XI. Quer. IF the promiſe to theſe <hi>Quakers,</hi> and the threat<g ref="char:EOLhyphen"/>ning to their <hi>Edomitiſh</hi> brethren be to be believ<g ref="char:EOLhyphen"/>ved (as moſt certain it is) being written, <hi>Iſaiah</hi> 66.5. <hi>That God ſhall appear to the joy of the one, and the other ſhall be aſhamed?</hi> May not this damp the malice, hatred, and diſpight of the enemy, and make the Sufferers rejoice in the Faith of that joy, promiſed by their Faithful God? and to vilipend, and eſteem that Thunder-clap (as they would have it thought) to
+<pb n="10" facs="tcp:178749:6"/>be of no more value than a <hi>Popes-Bull,</hi> intimated by an <hi>Antichri<g ref="char:EOLhyphen"/>ſtian Prieſt,</hi> or as a <hi>Balaams</hi> charme; <hi>Seing God hath beheld no ini<g ref="char:EOLhyphen"/>quity in Jacob, neither ſeen perverſeneſs in Iſrael:</hi> Wherefore, <hi>Sure<g ref="char:EOLhyphen"/>ly there is no enchantment againſt Jacob, neither is there any divination againſt Iſrael, Numb.</hi> 23.21, 23. ſeing he eſteems all our ſuffer<g ref="char:EOLhyphen"/>ings to be for his Names ſake, what ever others may think to the contrary.</p>
+               <p>We deſire you to anſwer theſe Queſtions plainly, and di<g ref="char:EOLhyphen"/>ſtinctly, which we judge you are bound in all reaſon to do, be<g ref="char:EOLhyphen"/>fore ye can with any colour of reaſon proceed any further a<g ref="char:EOLhyphen"/>gainſt us in that matter: But if ye refuſe or decline to anſwer them, we will look upon our ſelves as oblieged in conſcience to take a further opportunity yet more to diſcover you in your unchriſtian and unreaſonable proceedings.</p>
+               <p>Theſe where delivered to the late Biſhop of <hi>Aberdeen,</hi> in his own hand, at the Synod-houſe door (acceſs being ſtopped) be <hi>John Cowie,</hi> and <hi>Thomas Milne,</hi> as he was coming out, 1674.</p>
+               <p>
+                  <hi>After which, the ſaid Biſhop put a ſtop to ſuch proceedings, dure<g ref="char:EOLhyphen"/>ing his life-time, being one of the moſt ſober and moderate among them. And now this preſent Biſhop, his ſucceſſour, and his Clergie being in<g ref="char:EOLhyphen"/>tending a new procedure, with their ſentences of Excommunication, (ſo called) againſt the people of the Lord; we have publiſhed theſe Queries both for them and others of their National-Church-Officers, (as they are called) to conſider and anſwer: which we judge they are holden to do in reaſon before their procedure, as they would be e<g ref="char:EOLhyphen"/>ſteemed juſt or equal in their dealings by the World. And they are now propoſed not out of any regard to their ſentence, or for ſeeking any delay thereof, out of any fear we have of it, but only for clearing the Truth, and out of Compaſſion to them; leſt they be found fighters a<g ref="char:EOLhyphen"/>gainſt God and his people.</hi>
+               </p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
